@@ -81,5 +81,3 @@ require_once 'templates/menu.php';
 </script> -->
 </body>
 </html>
-
-
