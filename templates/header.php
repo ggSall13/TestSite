@@ -15,3 +15,4 @@
     <!-- Custom styles for this template -->
     <link href="/styles/album.css" rel="stylesheet">
   </head>
+  
