@@ -72,12 +72,5 @@ require_once 'templates/menu.php';
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/holder.min.js"></script>
-  <!-- <script>
-  var lis = document.querySelectorAll("ol li");
-  for(var i=0; i<lis.length; i++) {
-    var html = lis[i].innerHTML;
-    lis[i].innerHTML = (i+1) + ". " + html;
-  }
-</script> -->
 </body>
 </html>
