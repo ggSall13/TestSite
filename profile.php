@@ -1,4 +1,13 @@
 <?php 
+session_start();
+
+
+
+if (empty($_SESSION)) {
+   header ('Location: login.php');
+   die();
+}
+
 $news = [];
 
 $files = scandir($_SERVER['DOCUMENT_ROOT'] . '/data');
