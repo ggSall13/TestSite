@@ -70,3 +70,35 @@ footer p {
   word-break: break-word;
 }
 
+.container_form {
+  max-width: 580px;
+  margin: 0 auto;
+  background-color: #fafafa;
+  padding: 20px;
+  border: 1px solid black;
+  box-shadow: 0px 0px 3px black;
+  opacity: 90%;
+}
+
+.form-group {
+  margin: 30px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 94vh;
+  width: 100%;
+}
+
+.wrapper_login {
+  width: 100%;
+  height: 94.1vh;
+  background-image: url(https://steamuserimages-a.akamaihd.net/ugc/170413290331346138/198A4AEA1BC2A2EF01575F9F438FD3F7F167E1F4/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 1920px, 1080px;
+}
+
